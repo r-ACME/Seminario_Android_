@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Seminario</string>
+    <string name="nav_drawer_open">Abrindo</string>
+    <string name="nav_drawer_close">Fechando</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
